@@ -22202,5 +22202,15 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto splitter by Niko Salocin</Description>
-     </AutoSplitter>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>COCOON</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MintXero/Cocoon-AutoSplit/main/cocoon2_ab1ef077.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter by Xcvazer</Description>
+    </AutoSplitter>
 </AutoSplitters>
